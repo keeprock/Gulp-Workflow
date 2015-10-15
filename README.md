@@ -17,5 +17,5 @@ That I like we most about this build, is that it allows me to easily work on mul
 
 # How to Install
 
-Just copy all the files and use it a backbone for your project.
+Just copy all the files and use it as a backbone for your project.
 

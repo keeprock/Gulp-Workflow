@@ -1,0 +1,27 @@
+{
+  "name": "Gulp",
+  "version": "1.0.0",
+  "description": "A basic Gulp workflow structure",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Alex Pogiba",
+  "license": "BSD",
+  "devDependencies": {
+    "autoprefixer-core": "^5.2.0",
+    "bower": "~0.8.6",
+    "browser-sync": "^2.8.0",
+    "browserify": "^10.2.1",
+    "bs-html-injector": "^2.0.4",
+    "gulp": "^3.8.11",
+    "gulp-if": "^1.2.5",
+    "gulp-imagemin": "^2.2.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-postcss": "^5.1.8",
+    "gulp-sass": "^2.0.1",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-util": "^3.0.4",
+    "watchify": "^3.2.1",
+    "yargs": "^3.9.1"
+  }
+}

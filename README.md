@@ -1,6 +1,6 @@
 # Keeprock Gulp workflow
 
-Keeprock Gulp workflow is my personal building system for every front-end project right now.
+Keeprock Gulp workflow is my personal building system for every front-end project I do right now.
 
 It contains:
 

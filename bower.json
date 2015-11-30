@@ -6,7 +6,6 @@
     "requirejs": "~2.1.5"
   },
   "devDependencies": {
-    "uikit": "~2.21.0",
-    "compass-breakpoint": "~2.6.1"
+    "uikit": "~2.21.0"
   }
 }
